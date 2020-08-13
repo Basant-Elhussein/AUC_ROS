@@ -1,2 +1,0 @@
-/home/basant/AUC_ROS/day 6/tasks/src/build/CMakeFiles/rebuild_cache.dir
-/home/basant/AUC_ROS/day 6/tasks/src/build/CMakeFiles/edit_cache.dir
