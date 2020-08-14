@@ -1,0 +1,8 @@
+prefix=/home/basant/AUC_ROS/Day3/task5_ws/devel
+
+Name: ball_chaser
+Description: Description of ball_chaser
+Version: 0.0.0
+Cflags: -I/home/basant/AUC_ROS/Day3/task5_ws/devel/include -I/home/basant/AUC_ROS/Day3/task5_ws/src/src/ball_chaser/src
+Libs: -L${prefix}/lib -lball_chaser
+Requires: message_generation roscpp std_msgs

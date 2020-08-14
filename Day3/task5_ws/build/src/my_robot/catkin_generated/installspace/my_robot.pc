@@ -1,0 +1,8 @@
+prefix=/home/basant/AUC_ROS/Day3/task5_ws/install
+
+Name: my_robot
+Description: Description of my_robot
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
