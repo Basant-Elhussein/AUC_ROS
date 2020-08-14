@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/my-pkg_node.dir/src/hello.cpp.o  -o /home/basant/AUC_ROS/Day3/my_ws/devel/lib/my-pkg/my-pkg_node 
