@@ -1,0 +1,8 @@
+prefix=/home/basant/AUC_ROS/Day3/my_ws/install
+
+Name: my-pkg
+Description: Description of my-pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

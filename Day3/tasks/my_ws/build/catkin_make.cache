@@ -1,0 +1,2 @@
+my-pkg
+-DCATKIN_DEVEL_PREFIX=/home/basant/AUC_ROS/Day3/my_ws/devel -DCMAKE_INSTALL_PREFIX=/home/basant/AUC_ROS/Day3/my_ws/install -G Unix Makefiles
